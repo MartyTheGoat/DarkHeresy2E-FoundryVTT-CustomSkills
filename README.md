@@ -1,3 +1,6 @@
+Forked to allow for aditions of custom skills to private game.
+
+
 # Dark Heresy 2E - Continued
 
 An **UNOFFICIAL** system for playing Dark Heresy 2E on [Foundry VTT](https://foundryvtt.com/).
