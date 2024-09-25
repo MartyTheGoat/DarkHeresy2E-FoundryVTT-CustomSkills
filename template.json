@@ -327,6 +327,12 @@
                 "advance": -20,
                 "starter": false,
                 "cost": 0
+              },
+              "Infused Knowledge": {
+                "label": "Infused Knowledge",
+                "advance": -20,
+                "starter": false,
+                "cost": 0
               }
             }
           },
@@ -439,6 +445,18 @@
               },
               "xenos": {
                 "label": "Xenos",
+                "advance": -20,
+                "starter": false,
+                "cost": 0
+              },
+              "Necron": {
+                "label": "Necron",
+                "advance": -20,
+                "starter": false,
+                "cost": 0
+              },
+              "Adeptus Mechanicus": {
+                "label": "Adeptus Mechanicus",
                 "advance": -20,
                 "starter": false,
                 "cost": 0
@@ -569,6 +587,12 @@
               },
               "xenosMarkings": {
                 "label": "Xenos Markings",
+                "advance": -20,
+                "starter": false,
+                "cost": 0
+              },
+              "Secret Codes Redacted": {
+                "label": "Secret Codes Redacted",
                 "advance": -20,
                 "starter": false,
                 "cost": 0
@@ -771,6 +795,12 @@
               },
               "tacticaImperialis": {
                 "label": "Tactica Imperialis",
+                "advance": -20,
+                "starter": false,
+                "cost": 0
+              },
+              "Infused Knowledge": {
+                "label": "Infused Knowledge",
                 "advance": -20,
                 "starter": false,
                 "cost": 0
