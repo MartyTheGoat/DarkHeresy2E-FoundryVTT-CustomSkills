@@ -70,6 +70,6 @@
   "url": "https://github.com/MartyTheGoat/DarkHeresy2E-FoundryVTT-CustomSkills",
   "socket": true,
   "manifest": "https://github.com/MartyTheGoat/DarkHeresy2E-FoundryVTT-CustomSkills/system.json",
-  "download": "https://github.com/MartyTheGoat/DarkHeresy2E-FoundryVTT-CustomSkills/dark-heresy.zip",
+  "download": "https://github.com/MartyTheGoat/DarkHeresy2E-FoundryVTT-CustomSkills/dark-heresy-custom.zip",
   "license": "LICENSE.txt"
 }
